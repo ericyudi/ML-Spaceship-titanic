@@ -4,6 +4,9 @@
 
 Machine Learning project developed for the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) Kaggle competition. The goal is to predict which passengers were transported to an alternate dimension after the ship collided with a spacetime anomaly.
 
+My Project Link on Kaggle: [Eric's Spaceship Titanic](https://www.kaggle.com/code/ericemerich/spaceship-titanic-rfc-gradient-detailed-pt-br)
+
+
 ---
 
 ## 📋 Table of Contents
@@ -37,7 +40,6 @@ Spaceship titanic/
 ├── 📄 test.csv                                              # Test data
 ├── 📄 submission.csv                                        # Generated submission file
 ├── 📄 sample_submission.csv                                 # Kaggle sample submission
-├── 🎬 Spaceship Titanic RFC && Gradient_ Detailed PT-BR.mp4 # Walkthrough video
 │
 └── 📂 img/
     ├── heatmap.png                     # Correlation matrix heatmap
