@@ -178,11 +178,11 @@ Distribution of passengers by `HomePlanet`.
 
 ### Transportation Rate by Deck
 
-Proportion of transported passengers per cabin deck.
+Proportion of survival rate per cabin deck.
 
 ![Transportation by Deck](img/sobrevivencia_deck.png)
 
-> Decks **B and C** (predominantly Europa passengers) show higher transportation rates. Decks **F and G** hold more passengers overall, but with a different transport ratio.
+> Decks **B and C** (predominantly Europa passengers) show higher survival rate. Decks **F and G** hold more passengers overall, but with a different ratio.
 
 ---
 
