@@ -52,17 +52,6 @@ Spaceship titanic/
 
 ---
 
-## 🛠️ Technologies Used
-
-| Library | Purpose |
-|---|---|
-| `pandas` | Data manipulation and analysis |
-| `numpy` | Numerical operations |
-| `seaborn` / `matplotlib` | Data visualization |
-| `scikit-learn` | Preprocessing, models, and metrics |
-
----
-
 ## 🔄 Project Pipeline
 
 The project follows a clear, well-structured Machine Learning pipeline:
