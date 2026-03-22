@@ -44,7 +44,7 @@ Spaceship titanic/
 └── 📂 img/
     ├── heatmap.png                     # Correlation matrix heatmap
     ├── habitant_count.png              # Passenger count by home planet
-    ├── sobrevivencia_deck.png          # Transportation rate by deck
+    ├── sobrevivencia_deck.png          # survival rate by deck
     ├── metrics_models.png              # Model metrics comparison
     ├── cm_rf.png                       # Confusion matrix — Random Forest
     ├── cm_gradient.png                 # Confusion matrix — Gradient Boosting
@@ -178,11 +178,11 @@ Distribution of passengers by `HomePlanet`.
 
 ---
 
-### Transportation Rate by Deck
+### Survival Rate by Deck
 
 Proportion of survival rate per cabin deck.
 
-![Transportation by Deck](img/sobrevivencia_deck.png)
+![Survival by Deck](img/sobrevivencia_deck.png)
 
 > Decks **B and C** (predominantly Europa passengers) show higher survival rate. Decks **F and G** hold more passengers overall, but with a different ratio.
 
